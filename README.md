@@ -1,2 +1,1 @@
-# teberanking
-Avaliação - Ranking de jogadores
+# Avaliação - Ranking de jogadores
